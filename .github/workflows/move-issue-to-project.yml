@@ -15,4 +15,4 @@ jobs:
           project-url: https://github.com/orgs/Alumnos-CF/projects/1
           column-name: "To Do"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
